@@ -1,0 +1,11 @@
+Este arquivo foi criado utilizando o GEDIT
+Comandos utiliados:
+
+git clone https://github.com/portoedu/dio-desafio-repository-.git
+cd dio-desafio-repository
+mkdir arquivosTXT
+cd arquivosTXT/
+gedit arquivo.txt
+git add -A
+git commit -m "adicionando arquivo.txt"
+git push
