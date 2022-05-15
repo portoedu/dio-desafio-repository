@@ -1,0 +1,4 @@
+curl -X POST http://localhost:8081/alunos -H 'Content-Type: application/json' -d '{"nome":"teste","cpf":"019.082.980-06", "bairro":"bairro aluno", "dataDeNascimento":"01/01/0001"}'
+
+
+//cpf pego de uma imagem do google
